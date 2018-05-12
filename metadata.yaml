@@ -1,0 +1,34 @@
+_repo: Rambles-of-an-Archaeologist-Among-Old-Books-and-in-Old-PlacesArt-Decoration-and-Art-Manufactu__26449
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fairholt, F. W. (Frederick William)
+    alias: Fairholt, Frederick William
+    birthdate: 1814
+    deathdate: 1866
+    gutenberg_agent_id: '32015'
+    url: http://www.gutenberg.org/2009/agents/32015
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Fairholt
+description: ''
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26449'
+  lccn: 01003392
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dürer, Albrecht, 1471-1528'
+- !lcc 'N'
+- !lcsh 'Art'
+- !lcsh 'Jewelry'
+- !lcsh 'Decoration and ornament'
+- !lcsh 'Rings'
+title: "Rambles of an Archaeologist Among Old Books and in Old Places\r\nBeing Papers\
+  \ on Art, in Relation to Archaeology, Painting, Art-Decoration, and Art-Manufacture"
+url: http://www.gutenberg.org/ebooks/26449
