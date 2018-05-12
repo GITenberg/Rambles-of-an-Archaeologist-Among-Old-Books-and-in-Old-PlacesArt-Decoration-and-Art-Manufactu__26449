@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32015
     wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Fairholt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26449#Rambles-of-an-Archaeologist-Among-Old-Books-and-in-Old-PlacesArt-Decoration-and-Art-Manufactu_
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
 identifiers:
